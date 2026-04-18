@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: ecommerce-app
-          image: viishnu24/multibranch-flask-app:latest
+          image: viishnu24/multibranch-flask-app:build-6
           ports:
             - containerPort: 5000
